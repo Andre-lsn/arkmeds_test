@@ -15,9 +15,9 @@
 
 # Parte 3
 
-- Mostrar no front-end o proprietário que possui mais equipamentos []
-- Mostrar no front-end o equipamento que possui mais chamados []
-- Mostrar no front-end uma tabela que liste todos os chamados, com id, número, apelido do proprietário e equipamento []
+- Mostrar no front-end o proprietário que possui mais equipamentos [TODO]
+- Mostrar no front-end o equipamento que possui mais chamados [TODO]
+- Mostrar no front-end uma tabela que liste todos os chamados, com id, número, apelido do proprietário e equipamento [TODO]
 
 
 
