@@ -14,7 +14,4 @@ PORT=PORTA
 Como rodar?
 
 python3 manage.py runserver
-# arkmeds_teste_tecnico
-# arkmeds_test
-# arkmeds_test
-# arkmeds_test_
+
