@@ -1,0 +1,16 @@
+<html>
+    <title>Arkmeds Test</title>
+<body style="margin: 0; padding: 0;">
+    <div style="display: flex; text-align: center; justify-content: center;">
+        Hello World!
+    </div>
+    <p id="data"></p>
+</body>
+
+<script>
+    const [{ results: equipaments_data}] = JSON.parse('{{ payload | escapejs }}');
+    // const { equipamen_data: equipament_data } = JSON.parse('{{ payload | escapejs }}');
+    // console.log(equipament_data)
+    // document.getElementById("data").textContent = jsonObject
+</script>
+</html
